@@ -15,7 +15,7 @@ func main() {
 		fmt.Println("Today.")
 	case today + 1:
 		fmt.Println("Tomorrow.")
-	case today +2:
+	case today + 2 :
 		fmt.Println("In two days")
 	default:
 		fmt.Println("Too far away.")
